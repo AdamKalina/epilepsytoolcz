@@ -1,2 +1,2 @@
-# EpilepsyToolCZ.github.io
+# EpilepsyToolCZ
 Czech version of toolsforepilepsy.com
